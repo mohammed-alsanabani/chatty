@@ -30,11 +30,9 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/alsanabani4/chatty.git
     cd chatty
-    ```
-    (Replace `<repository_url>` with the actual URL of your repository.)
-
+    ``
 2.  **Install Dependencies**:
     Navigate to the `chatty/` directory (where `pubspec.yaml` is located) and run:
     ```bash
