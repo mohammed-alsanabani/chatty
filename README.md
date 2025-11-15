@@ -1,4 +1,3 @@
-```markdown
 # 💬 Chatty - Flutter & Firebase Chat App
 
 A modern, real-time chat application built with Flutter and Firebase that enables seamless communication between users.
@@ -31,7 +30,7 @@ A modern, real-time chat application built with Flutter and Firebase that enable
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/alsanabani4/chatty.git
+   git clone https://github.com/mohammed-alsanabani/chatty.git
    cd chatty
 ```
 
